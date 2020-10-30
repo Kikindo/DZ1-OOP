@@ -1,0 +1,16 @@
+C:\Users\todir\source\repos\Zadaca1\Display\bin\Debug\netcoreapp3.1\Display.exe
+C:\Users\todir\source\repos\Zadaca1\Display\bin\Debug\netcoreapp3.1\Display.deps.json
+C:\Users\todir\source\repos\Zadaca1\Display\bin\Debug\netcoreapp3.1\Display.runtimeconfig.json
+C:\Users\todir\source\repos\Zadaca1\Display\bin\Debug\netcoreapp3.1\Display.runtimeconfig.dev.json
+C:\Users\todir\source\repos\Zadaca1\Display\bin\Debug\netcoreapp3.1\Display.dll
+C:\Users\todir\source\repos\Zadaca1\Display\bin\Debug\netcoreapp3.1\Display.pdb
+C:\Users\todir\source\repos\Zadaca1\Display\bin\Debug\netcoreapp3.1\ClassLibrary.dll
+C:\Users\todir\source\repos\Zadaca1\Display\bin\Debug\netcoreapp3.1\ClassLibrary.pdb
+C:\Users\todir\source\repos\Zadaca1\Display\obj\Debug\netcoreapp3.1\Display.csprojAssemblyReference.cache
+C:\Users\todir\source\repos\Zadaca1\Display\obj\Debug\netcoreapp3.1\Display.AssemblyInfoInputs.cache
+C:\Users\todir\source\repos\Zadaca1\Display\obj\Debug\netcoreapp3.1\Display.AssemblyInfo.cs
+C:\Users\todir\source\repos\Zadaca1\Display\obj\Debug\netcoreapp3.1\Display.csproj.CoreCompileInputs.cache
+C:\Users\todir\source\repos\Zadaca1\Display\obj\Debug\netcoreapp3.1\Display.csproj.CopyComplete
+C:\Users\todir\source\repos\Zadaca1\Display\obj\Debug\netcoreapp3.1\Display.dll
+C:\Users\todir\source\repos\Zadaca1\Display\obj\Debug\netcoreapp3.1\Display.pdb
+C:\Users\todir\source\repos\Zadaca1\Display\obj\Debug\netcoreapp3.1\Display.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\todir\source\repos\Zadaca1\Zadaca1\bin\Debug\netcoreapp3.1\Zadaca1.exe
+C:\Users\todir\source\repos\Zadaca1\Zadaca1\bin\Debug\netcoreapp3.1\Zadaca1.deps.json
+C:\Users\todir\source\repos\Zadaca1\Zadaca1\bin\Debug\netcoreapp3.1\Zadaca1.runtimeconfig.json
+C:\Users\todir\source\repos\Zadaca1\Zadaca1\bin\Debug\netcoreapp3.1\Zadaca1.runtimeconfig.dev.json
+C:\Users\todir\source\repos\Zadaca1\Zadaca1\bin\Debug\netcoreapp3.1\Zadaca1.dll
+C:\Users\todir\source\repos\Zadaca1\Zadaca1\bin\Debug\netcoreapp3.1\Zadaca1.pdb
+C:\Users\todir\source\repos\Zadaca1\Zadaca1\obj\Debug\netcoreapp3.1\Zadaca1.csprojAssemblyReference.cache
+C:\Users\todir\source\repos\Zadaca1\Zadaca1\obj\Debug\netcoreapp3.1\Zadaca1.AssemblyInfoInputs.cache
+C:\Users\todir\source\repos\Zadaca1\Zadaca1\obj\Debug\netcoreapp3.1\Zadaca1.AssemblyInfo.cs
+C:\Users\todir\source\repos\Zadaca1\Zadaca1\obj\Debug\netcoreapp3.1\Zadaca1.csproj.CoreCompileInputs.cache
+C:\Users\todir\source\repos\Zadaca1\Zadaca1\obj\Debug\netcoreapp3.1\Zadaca1.dll
+C:\Users\todir\source\repos\Zadaca1\Zadaca1\obj\Debug\netcoreapp3.1\Zadaca1.pdb
+C:\Users\todir\source\repos\Zadaca1\Zadaca1\obj\Debug\netcoreapp3.1\Zadaca1.genruntimeconfig.cache
